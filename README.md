@@ -1,2 +1,2 @@
 # Data_science
-Including some jupyter notebooks with analysis of data to resolve some questions. The solution use Python libraries like Pandas and Matplotlib
+In this folder I included some jupyter notebooks with analysis of data to resolve some questions. For the solution I used Python libraries like Pandas and Matplotlib. The data used here was provided by Networking Academy by Cisco.
